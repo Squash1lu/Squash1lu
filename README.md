@@ -1,16 +1,13 @@
-## Hi there 👋
+## Squash
 
-<!--
-**Squash1lu/Squash1lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yop,
 
-Here are some ideas to get you started:
+je suis un developpeur papier maché trempé dans une feuille d'ibiscus.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Langages utilisés** :
+  - **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" width="20" height="20"/>
+  - **C** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="20" height="20"/>
+### 💻 IDE
+
+- **Pycharm** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm logo" width="20" height="20"/> 
+- **VSCode** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode logo" width="20" height="20"/> 
